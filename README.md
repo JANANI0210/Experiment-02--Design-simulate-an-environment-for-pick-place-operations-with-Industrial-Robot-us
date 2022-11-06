@@ -66,7 +66,7 @@ try:
  
 except:
 
- # This will be removed in future versions of RoboDK
+ This will be removed in future versions of RoboDK
  
  from robodk import PosePP as p
 
